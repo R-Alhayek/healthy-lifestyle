@@ -24,7 +24,3 @@ document.write (image);
 { var image2 = '<img src="https://image.sciencenorway.no/1438480.jpg?imageId=1438480&panow=0&panoh=0&panox=0&panoy=0&heightw=0&heighth=0&heightx=0&heighty=0&width=1200&height=630"alt="fruit"/>';
 document.write(image2);
 }
-
-
-
-
